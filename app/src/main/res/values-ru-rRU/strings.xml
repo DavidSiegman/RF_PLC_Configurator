@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RF-PLC Конфигуратор</string>
+    <string name="action_settings">Настройки</string>
+    <string name="connect_fragment_title">СОЕДИНЕНИЕ</string>
+    <string name="com_connect_string">COM-Соединение</string>
+    <string name="com_port_string">COM-Порт</string>
+    <string name="open_button_string">Открыть</string>
+    <string name="close_button_string">Закрыть</string>
+    <string name="tcp_connect_string">TCP-Соединение</string>
+    <string name="tcp_ip_string">IP-Адрес</string>
+    <string name="tcp_port_string">Порт</string>
+    <string name="connect_button_string">Подключить</string>
+    <string name="disconnect_button_string">Отключить</string>
+    <string name="clearlog_button_string">Очистить Лог</string>
+</resources>
